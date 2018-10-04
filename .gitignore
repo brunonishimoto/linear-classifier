@@ -1,0 +1,9 @@
+# Auto gerated files
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+
+# generated csv
+*.csv
