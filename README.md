@@ -1,6 +1,6 @@
 # Linear Classifier
 
-This is a simple linear classifier using SVM on dataset [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html).
+This is a simple linear classifier using SVM on dataset [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html). Most of the code is based on an assignment of [CS231n](http://cs231n.stanford.edu/2017/).
 
 ## CIFAR10 Dataset
 
